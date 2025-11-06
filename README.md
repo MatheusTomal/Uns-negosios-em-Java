@@ -1,5 +1,5 @@
 # dojo-java-exercises
-repositorio do curso DevDojo java Virado no Jiraiya
+repositorio de um conversor de salarios de moedas estrangeiras ou nao
 
     import java.util.Scanner;
 
