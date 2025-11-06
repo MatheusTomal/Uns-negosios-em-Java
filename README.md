@@ -1,5 +1,5 @@
 # dojo-java-exercises
-repositorio de um conversor de salarios de moedas estrangeiras ou nao
+//repositorio de um conversor de salarios de moedas estrangeiras ou nao
 
     import java.util.Scanner;
 
